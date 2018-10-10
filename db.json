@@ -1,4 +1,11 @@
-[
-    {'id': 1, 'name': 'João'},
-    {'id': 2, 'name': 'Jose'}
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
